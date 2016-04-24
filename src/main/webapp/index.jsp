@@ -1,3 +1,6 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c"%>
+<%@ taglib uri="http://java.sun.com/jsp/jstl/fmt" prefix="fmt"%>
 <!DOCTYPE html>
 <html>
 <head>
@@ -39,7 +42,7 @@
 		<div class="page-header">
 			<h1>Página inicial</h1>
 		</div>
-		<p class="lead">
+		<p class="lead"> 
 			Exemplo didático de um sistema Java para web utilizando boas práticas de desenvolvimento.
 		</p>
 		<p>
